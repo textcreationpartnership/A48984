@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of Common-Councell made the first day of July in the yeare of our Lord 1658 for the better rule, oversight and government of the carrs, carts, carters or carmen within the city of London, and liberties of the same.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48984</idno><idno type="EEBO-CITATION">18368321</idno>
+  <idno type="VID">107413</idno>
+  <idno type="EEBO-PROQUEST">2248544348</idno>
+  
+            <idno type="STC">Wing L2852K</idno>
+            <idno type="STC">ESTC R39340</idno>
+            <idno type="OCLC">18368321</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107413)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of Common-Councell made the first day of July in the yeare of our Lord 1658 for the better rule, oversight and government of the carrs, carts, carters or carmen within the city of London, and liberties of the same.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[2], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Carriages and carts --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107413:1"/>
+            <p>AN ACT OF Common-Councell <hi>a MADE</hi> The First day of <hi>July</hi> in the yeare of our Lord 1658. For the better Rule, Oversight and Government of the Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, Carts, Carters or Carmen within the City of <hi>London,</hi> and Liber<g ref="char:EOLhyphen"/>ties of the same.</p>
+            <figure>
+               <figDesc>arms</figDesc>
+            </figure>
+            <p>Printed by <hi>Jam<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the Honourable <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:107413:2"/>
+            <pb n="1" facs="tcp:107413:2"/>
+            <head>
+               <figure>
+                  <figDesc>arms</figDesc>
+               </figure>
+               <hi>Chiverton</hi> Mayor. A Common Councell holden in the Chamber of the <hi>Guild-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all</hi> of the City of <hi>Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> the first day of <hi>July</hi> in the yeare of our Lord 1658 before the right Ho<g ref="char:EOLhyphen"/>nourable S<seg rend="sup">•</seg>
+               <hi>Richard Chiv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ton</hi> K<seg rend="sup">t</seg> Lord Mayor of the City of <hi>London,</hi> S<seg rend="sup">•</seg>
+               <hi>Thomas Atkin</hi> K<seg rend="sup">•</seg> and Alderman, S<seg rend="sup">t</seg>
+               <hi>Thomas Foote</hi> K<seg rend="sup">t</seg> and Alderman, <hi>John Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke</hi> Alderman <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>pest Millne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Alderman, <hi>Fran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Warner</hi> Al<g ref="char:EOLhyphen"/>derman, and <hi>Thomas Chandl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Alderman and one of the <hi>Sheriffs</hi> of the City of <hi>London,</hi> and more then fourty o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moners of the Common Councell of the same City then and there assembled.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Act of Common Councell made the 22<seg rend="sup">th</seg> day of <hi>October</hi> in the time of the Maioralty of S<seg rend="sup">t</seg>
+               <hi>Thomas Lowe</hi> K<seg rend="sup">•</seg>, the Rule,<note place="margin">The recitall of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>T<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>as Low</hi>'s Maio<g ref="char:EOLhyphen"/>ralty.</note> Oversight and Go<g ref="char:EOLhyphen"/>vernment of the Carres, Carts, Carters and Car<g ref="char:EOLhyphen"/>men, and of all other person or persons whatsoever working any Carres or Carts within this City and
+<pb n="2" facs="tcp:107413:3"/> Liberties, is committed to the Master, Wardens and Fellowship of Woodmongers <hi>London;</hi> And Provisions therein made (amongst other things) for the translation of all Carmen and other Persons that shall keepe, use or worke any Carre or Carres, Cart or Carts within the said City and Liberties (and that then were or should thereafter be free of any other Company of this City) to the said Company of Woodmongers:<note place="margin">The <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t m<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1654</note> And whereas by an other Act of Common Councell made the se<g ref="char:EOLhyphen"/>cond day of <hi>August</hi> 1654 the number of Carres of all sorts t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worke within the said City and Liber<g ref="char:EOLhyphen"/>ties is limited to four Hundred and twenty, where<g ref="char:EOLhyphen"/>of two Hundred and eighty to be Street Carres, and one Hundred and fourty to be Wharfe-Carres, or for Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rfingers to carry abroad Fewell from the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Wharfes, and divers Rules, Directions, Pro<g ref="char:EOLhyphen"/>visions and Penalties thereby given, made and set down touching the Licencing of Carmen and the better regulation of them, and sundry other mat<g ref="char:EOLhyphen"/>ters: And the Master, Wardens and Assistants of the said Company of Woodmongers by the same Act impowred for Licencing and allowing of the said Carmen, and to severall other purposes, as in and by the said several Acts more fully may ap<g ref="char:EOLhyphen"/>peare:<note place="margin">Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>l c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> i int<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngers.</note> And for asmuch as Complaint hath been made as well by divers Citizens as by the Carmen, against the said Woodmongers, of sundry abuses committed in their said Government of the Car<g ref="char:EOLhyphen"/>men, and of many Inconveniences and grievances brought upon the people and Inhabitants of this City by the said Company, by means and pretence of the priviledge and power granted them in and
+<pb n="3" facs="tcp:107413:3"/> by the said several Acts of Common Councell. <hi>Be it therefore enacted,</hi>
+               <note place="margin">The repealing of the first of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> afo<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>id Acts.</note> granted and agreed by the Right honourable the Lord Mayor, the Alder<g ref="char:EOLhyphen"/>men his brethren, and the Commons in this Com<g ref="char:EOLhyphen"/>mon Councell assembled and by the authority of the same; That the first of the said Acts before mentioned made in the time of the Maioralty of S<seg rend="sup">t</seg>
+               <hi>Thomas Lowe,</hi> and every Clause, Article and thing therein contained,<note place="margin">Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other Acts <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Woo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngers to di<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or licence C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s or C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>men.</note> and so much of the latter of the said two Acts of Common Councell as con<g ref="char:EOLhyphen"/>fers any trust or power to or upon the Woodmon<g ref="char:EOLhyphen"/>gers, in or about the disposing or licencing of Carres or Carmen, or the regulating or ordering of the said Carrs or Carmen, or otherwise Inter<g ref="char:EOLhyphen"/>essing them in any matter or thing touching or con<g ref="char:EOLhyphen"/>cerning the said Carrs or Carrmen, and so far forth only as concerns the said Woodmongers, and also that concerns the admittance or allowance of one Hundred and fourty Carrs to be Wharfe-Carrs, or for the use of Wharfingers, and all other Acts and Orders touching or concerning any the said matters or things, or in any other wise contrary or repug<g ref="char:EOLhyphen"/>nant to any clause or matter hereafter in this pre<g ref="char:EOLhyphen"/>sent Act declared, appointed or contained, shall from hence forth be utterly repealed and made void to all intents and purposes;<note place="margin">The investing the Govern<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt in the Presid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vernours for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Po<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of <hi>L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi> &amp;c.</note> And that the Presi<g ref="char:EOLunhyphen"/>dent and Governours for the Poore of the City of <hi>London</hi> and the Liberties thereof shall from time to time hereafter have the rule, oversight and Go<g ref="char:EOLhyphen"/>vernment of the said Carrs, Carts, Carters and Carmen, and of all other person and persons what<g ref="char:EOLhyphen"/>soever, working any Carrs or Carts within the City of London and liberties thereof during the
+<pb n="4" facs="tcp:107413:4"/> pleasure of this Court and no longer,<note place="margin">The extention and continuati<g ref="char:EOLhyphen"/>on of their power.</note> and that in as large and ample manner as the said Company of Woodmongers have lawfully had and enjoyed, and as the said Woodmongers were appointed, limited and directed to doe in and by the said last mentioned Act of Common Councell of the second day of August 1654. or any other Act of Common Coun<g ref="char:EOLhyphen"/>cell, and according to the rules, directions and provi<g ref="char:EOLhyphen"/>sions in the same Acts or any of them mentioned and Comprised, which are therefore to abide and continue in full force and virtue to all other intents and purposes save only as to the authorizing or al<g ref="char:EOLhyphen"/>lowance of wharfe Carres and of the Woodmongers to intermedle in the Government of the said Carres or Carmen or otherwise touching the same,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> W<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </note> which so farr forth and to those only purposes is repealed and made void as aforesaid.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>Also, <hi>It is enacted</hi> that there shall not here<g ref="char:EOLhyphen"/>after be any Carre, Cart or Carres, permitted or allowed to any wharfe, wharfinger, or Wood<g ref="char:EOLhyphen"/>monger, or kept or worked by any wharfinger, or Woodmonger, after the first day of August next, but that the whole number of 420 Carres to be licensed as aforesaid,<note place="margin">A <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ca<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> S<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Car<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and to carry a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> shall be Street Carres, and granted to Street Carmen only, and no other Carres used or allowed to work within this City and liberties thereof, but that the carriage of all Wood, Coles, and other fewell within the same City and liberties, shall be done and performed at such rates, and in all other respects, as other goods, and Commodities have used and ought to be carry<g ref="char:EOLhyphen"/>ed, by the Street Carmen only and not other<g ref="char:EOLhyphen"/>wise, except such persons who doe send their own
+<pb n="5" facs="tcp:107413:4"/> or other Carts out of the country to bring Coles from wharfes, and also all persons who shall bring his own Coles home to his house in London with his own Carts, not being traders in fewell. And if any wharfinger, Woodmonger, or other, shall presume to keep and work any Carr, Cart, or Carres, contrary to the true meaning hereof, such person and persons, for every time so offending shall forfeit and pay for the first offence the summe of 40 shillings, to be recovered and obtained,<note place="margin">Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> p<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>bles f r W<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>fing s and W o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing.</note> as is hereafter mentioned, and for the second and every other offence afterward, the said Carre, or Carres, to be seised and carried to the new Store-yard on More-ditch and there kept and detayned according to the custome of London.</p>
+            <p>And for the better prevention of such deceipt hereafter as divers Woodmongers have practised in the sale and measure of their Coles, <hi>It is en<g ref="char:EOLhyphen"/>acted</hi> that the twelve Seacoale-meaters of this City,<note place="margin">The S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>coale-m<gap reason="illegible" resp="#keyers" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pro<g ref="char:EOLhyphen"/>vid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> S<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o carry Co<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s in.</note> shall provide and keep in readiness a sufficient number of Sackes of the just and full size and mea<g ref="char:EOLhyphen"/>sure, and that all Seacoales hereafter to be sold by any Woodmonger, or others, shall be filled and brought home to the buyer in the said Seacoale-meaters Sackes, and by some Street Carr, or Carres of persons duly licensed and allowed as a<g ref="char:EOLhyphen"/>foresaid, and bearing upon the said Carres the marke of the Redcross for a note of their allowance as hath antiently been accustomed;<note place="margin">The Redc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o s to be upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Carr al<g ref="char:EOLhyphen"/>lowed.</note> And fur<g ref="char:EOLhyphen"/>ther, that there shall be provided and kept by and at the charge of the Parishioners and Inhabi<g ref="char:EOLhyphen"/>tants of every Parish of this City and liberties, one or more sealed Bushell or Bushells (according
+<pb n="6" facs="tcp:107413:5"/> as every Parish shall be greater or lesser) to re<g ref="char:EOLhyphen"/>maine in the hands of some fit person or persons,<note place="margin">A sealed Bushell to be kept by every Parish.</note> to be therefore appointed in every Parish re<g ref="char:EOLhyphen"/>spectively, and sworne in the outer Court before the Lord Major and Aldermen of this City, for the time being, who from time to time upon request of any such Parishioner or Inhabitant shall attend with one of the same Bushells to measure or essay and make tryall of the measure of any Coles bought or brought home by or for any such Inhabitant or Parishioner, as aforesaid: And if any person or per<g ref="char:EOLhyphen"/>sons, shall bring home in his or their Cart, or Carr, to any buyer, any Coles in any other Sack, or Sacks, then in the Sack, or Sacks, of the said common meaters of Seacoales to be therefore provided and kept as aforesaid, such person so offending shall forfeit and pay tenne shillings for the first and second offence respectively, and for the third and every other offence, the Carr or Carres of the offender to be seised and carried to the new Store-yard on More-ditch as aforesaid. And,<note place="margin">Penalti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s how to be recovered</note>
+               <hi>It is enacted,</hi> that all pains penalties and forfeitures aforesaid, shall and may be recovered by action of debt, bill or information in the name of the Chamberleine of this City for the time being in the Court holden before the Major and Aldermen of the said City in the Chamber of the Guild-Hall and after recovery thereof one moyetie (after all charges deducted) shall be to the Informer, and the other moyetie to the Poore of Christ Hos<g ref="char:EOLhyphen"/>pitall in London to be imployed for and towards their releife, in all which suites to be brought by this Act the Chamberleine shall recover his or<g ref="char:EOLhyphen"/>dinary
+<pb n="7" facs="tcp:107413:5"/> costs and charges to be expended in and for recovery of all such forfeitures against the offender and offenders. And lastly, whereas there hath been allowed out of the rent of Carres the summe of one hundred and fifty pounds <hi>per annum,</hi> to be paid to the Governors of Christ Hospitall, toward reliefe of the Poore there harboured:<note place="margin">All<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce to Ch<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>st Hospi<g ref="char:EOLhyphen"/>tall as antiently.</note>
+               <hi>It is en<g ref="char:EOLhyphen"/>acted,</hi> that the same shall be from hence forth duly satisfied and paid yearly by the said President and Governors for the Poore of the said City of London and liberties thereof, from Midsomer last past during so long time as they shall have and con<g ref="char:EOLhyphen"/>tinue the oversight, rule, government and benefit of the said Carres, and Carmen, according to for<g ref="char:EOLhyphen"/>mer directions and provisions in this behalf by for<g ref="char:EOLhyphen"/>mer Act, or Acts Provided alwaies that upon defect of payment of the said one hundred and fifty pounds, within tenne dayes after every yeare, that then this present Act and every clause therein con<g ref="char:EOLhyphen"/>teyned (as to the Government of the Carres by the said President and Governors) be from thenceforth made null and void.<note place="margin">Power to the Presi <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt and Governors for the Poore, &amp;c. To execu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the or<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers made, &amp;c. An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to make further orders. &amp;c.</note> And <hi>Be it further enacted</hi> by the authority aforesaid, that the said President and Governors for the Poore of the said City of London and liberties thereof, shall have power and authority from time to time to execute such orders as are already made by the Lord Major and Court of Aldermen, for the rule and Government of Carres and Carmen, and to contrive, make and ex<g ref="char:EOLhyphen"/>ecute such further orders as shall be thought fit and requisite by them for that purpose being approved and allowed by this Court from time to time.</p>
+            <closer>
+               <signed>Sadler.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
